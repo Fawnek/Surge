@@ -23,11 +23,11 @@ Surge-Conf配置链接
 > **![20EA8F66](https://user-images.githubusercontent.com/104637981/189694103-d378cf21-18e5-41b6-b05f-8b4b287a3880.png)
 官方模块群组 :** https://t.me/GetSomeFries<br>
 
-> **解锁完整的Apple功能和集成服务作者
+> 解锁完整的Apple功能和集成服务作者
 -[@VirgilClyne](https://github.com/VirgilClyne)
 
 
-***Fawnek的仓库中所有配置/脚本纯属自用备份。
+Fawnek的仓库中所有配置/脚本纯属自用备份  ┈━═☆
 
 # 免责声明
 ① ▣本仓库内容所有内容：包括配置/脚本自用备份！只提供私人使用！请忽放置于商用连接！
