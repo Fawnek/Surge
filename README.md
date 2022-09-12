@@ -21,7 +21,7 @@
 > **解锁完整的Apple功能和集成服务作者 :** [@VirgilClyne](https://github.com/VirgilClyne)
 
 
-![445856363111043670](https://user-images.githubusercontent.com/104637981/189705771-673c31bc-1d9f-43da-83e5-7000e4266264.gif)
+<h1 align="center">![445856363111043670](https://user-images.githubusercontent.com/104637981/189705771-673c31bc-1d9f-43da-83e5-7000e4266264.gif)</h1>
 Fawnek的仓库中所有配置/脚本纯属自用备份 ┈━═☆
 
 # 免责声明
