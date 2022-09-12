@@ -1,7 +1,7 @@
 <h1 align="center">Surge自用配置——Fawnek个人使用</h1>
 
 <p align="center">
-<img src="图片" width="300"></img>
+<img src="![445856363111043670](https://user-images.githubusercontent.com/104637981/189706506-38aba6f5-946c-4301-9d7f-6ded9bfffa39.gif)" width="300"></img>
 </p>
 
 ### ![20ECA8D1](https://user-images.githubusercontent.com/104637981/189694660-a4ddb80e-42f3-4586-8096-46cb200b1679.png)Surge-Conf配置链接
@@ -19,9 +19,6 @@
 > **公开仓库（跳转原作者） :** https://github.com/VirgilClyne/iRingo<br>
 > **官方模块官方（TG群组） :** https://t.me/GetSomeFries<br>
 > **解锁完整的Apple功能和集成服务作者 :** [@VirgilClyne](https://github.com/VirgilClyne)
-
-<h1 align="center">![445856363111043670](https://user-images.githubusercontent.com/104637981/189706157-8442652f-832e-47d4-8606-11d7108e6b7f.gif)
-</h1>
 
 Fawnek的仓库中所有配置/脚本纯属自用备份 ┈━═☆
 
