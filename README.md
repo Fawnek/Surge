@@ -1,7 +1,6 @@
 <h1 align="center">Surge自用配置——Fawnek个人使用</h1>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/104637981?s=48&v=4" width="300"></img>
 <img src="图片" width="300"></img>
 </p>
 
@@ -25,9 +24,10 @@ Surge-Conf配置链接
 
 > 解锁完整的Apple功能和集成服务作者
 -[@VirgilClyne](https://github.com/VirgilClyne)
-
-
-Fawnek的仓库中所有配置/脚本纯属自用备份  ┈━═☆
+-
+-
+-
+> *Fawnek的仓库中所有配置/脚本纯属自用备份  ┈━═☆
 
 # 免责声明
 ① ▣本仓库内容所有内容：包括配置/脚本自用备份！只提供私人使用！请忽放置于商用连接！
