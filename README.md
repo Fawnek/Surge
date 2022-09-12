@@ -1,7 +1,7 @@
 <h1 align="center">Surge自用配置——Fawnek个人使用</h1>
 
 <p align="center">
-<img src="![445856363111043670](https://user-images.githubusercontent.com/104637981/189706506-38aba6f5-946c-4301-9d7f-6ded9bfffa39.gif)
+<img src="![image](https://user-images.githubusercontent.com/104637981/189706943-1b609c3b-4875-4ac1-ba26-b97902ee9f73.png)
 " width="300"></img>
 </p>
 
