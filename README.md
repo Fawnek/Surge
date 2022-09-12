@@ -20,8 +20,8 @@
 > **官方模块官方（TG群组） :** https://t.me/GetSomeFries<br>
 > **解锁完整的Apple功能和集成服务作者 :** [@VirgilClyne](https://github.com/VirgilClyne)
 
-<align="center">![445856363111043670](https://user-images.githubusercontent.com/104637981/189706157-8442652f-832e-47d4-8606-11d7108e6b7f.gif)
-</>
+<h1 align="center">![445856363111043670](https://user-images.githubusercontent.com/104637981/189706157-8442652f-832e-47d4-8606-11d7108e6b7f.gif)
+</h1>
 
 Fawnek的仓库中所有配置/脚本纯属自用备份 ┈━═☆
 
