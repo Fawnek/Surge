@@ -23,6 +23,9 @@ Surge-Conf配置链接
 > **![20EA8F66](https://user-images.githubusercontent.com/104637981/189694103-d378cf21-18e5-41b6-b05f-8b4b287a3880.png)
 官方模块群组 :** https://t.me/GetSomeFries<br>
 
+> **解锁完整的Apple功能和集成服务作者
+-[@VirgilClyne](https://github.com/VirgilClyne)
+
 
 ***Fawnek的仓库中所有配置/脚本纯属自用备份。
 
@@ -48,4 +51,12 @@ Surge-Conf配置链接
 - ## 补充说明
 - 本仓库只搬运各位大佬的脚本，在此基础上进行修改满足我的需求作为自用库使用，并不负责维护脚本。
 - 不保证所有脚本的可用性，合法性，安全性，完整性！
+
+### 特别感谢下列提供内容的作者以及整合时参考的作者
+-[@Rabbit-Spec](https://github.com/Rabbit-Spec)
+
+### *解锁完整的Apple功能和集成服务作者
+-[@VirgilClyne](https://github.com/VirgilClyne)
+
+### (排名不分先后，如有遗漏万分抱歉，请联系我加上）
 
