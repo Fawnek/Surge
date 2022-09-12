@@ -6,17 +6,21 @@
 </p>
 
 ### 配置链接
-> **稳定版 :** <br>
+> **纯净版 :** https://raw.githubusercontent.com/Fawnek/Surge-ios/main/Conf/Pure_version.conf<br>
+> **基础版 :** 待更新~敬请期待<br>
+
 
 ### 模块链接
 > **稳定版 :** https://github.com/Fawnek/Surge-ios/tree/main/Module<br>
 
 ### 「进阶」分流规则、重写规则及脚本
-> **公开版 :** <br>
+> **公开版 :** 待更新~<br>
 
 ### 「进阶」解锁完整的Apple功能和集成服务
 > **公开版 :** https://github.com/VirgilClyne/iRingo<br>
-
+> **整点薯条![20E92EBD](https://user-images.githubusercontent.com/104637981/189693751-413e09e6-6594-4832-b21b-e1967b67e344.png)
+群组 :** https://t.me/GetSomeFries<br>
+> 
 本仓库之中所有配置/脚本纯属自用备份。
 
 # 免责声明
