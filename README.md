@@ -9,7 +9,7 @@
 > **稳定版 :** <br>
 
 ### 模块链接
-> **稳定版 :** <br>
+> **稳定版 :** https://github.com/Fawnek/Surge-ios/tree/main/Module<br>
 
 ### 「进阶」分流规则、重写规则及脚本
 > **公开版 :** <br>
