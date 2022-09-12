@@ -1,7 +1,8 @@
 <h1 align="center">Surge自用配置——Fawnek个人使用</h1>
 
 <p align="center">
-<img src="![445856363111043670](https://user-images.githubusercontent.com/104637981/189706506-38aba6f5-946c-4301-9d7f-6ded9bfffa39.gif)" width="300"></img>
+<img src="![445856363111043670](https://user-images.githubusercontent.com/104637981/189706506-38aba6f5-946c-4301-9d7f-6ded9bfffa39.gif)
+" width="300"></img>
 </p>
 
 ### ![20ECA8D1](https://user-images.githubusercontent.com/104637981/189694660-a4ddb80e-42f3-4586-8096-46cb200b1679.png)Surge-Conf配置链接
