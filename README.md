@@ -1,7 +1,7 @@
-<h1 align="center">Surge自用配置——Fawnek个人使用</h1>
+<h1 align="center">Surge自用配置——Fawnek</h1>
 
 <p align="center">
-<img src="[https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/1.PNG](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.2008php.com%2F09_Website_appreciate%2F10-07-11%2F1278861720_g.jpg&refer=http%3A%2F%2Fwww.2008php.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665592074&t=501b22f6b8514a63d2aa15e07a4f83e8)" width="300"></img>
+<img src="https://github.com/Fawnek/Surge-ios/blob/main/ICO/B242281EE1DB4A76EDD33A9AED47D74E.png?raw=true" width="300"></img>
 </p>
 
 
