@@ -17,11 +17,11 @@
 
 ### ![211100B5](https://user-images.githubusercontent.com/104637981/189703270-9ea1f674-8b16-4741-a44e-c2174c3d8a52.png)「深入了解」解锁完整的Apple功能和集成服务
 > **公开仓库（跳转原作者） :** https://github.com/VirgilClyne/iRingo<br>
-> **官方模块群组:** https://t.me/GetSomeFries<br>
-> **解锁完整的Apple功能和集成服务作者:[@VirgilClyne](https://github.com/VirgilClyne)
+> **官方模块官方（TG群组） :** https://t.me/GetSomeFries<br>
+> **解锁完整的Apple功能和集成服务作者 :** [@VirgilClyne](https://github.com/VirgilClyne)
 
 
-> **Fawnek的仓库中所有配置/脚本纯属自用备份  ┈━═☆
+> **Fawnek的仓库中所有配置/脚本纯属自用备份 ┈━═☆
 
 # 免责声明
 ① ▣本仓库内容所有内容：包括配置/脚本自用备份！只提供私人使用！请忽放置于商用连接！
