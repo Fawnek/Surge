@@ -1,0 +1,10 @@
+#!name=Surge 显示工作时长
+#!desc=显示Surge的启动时间
+#!system=ios
+# 原地址：https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Surge-Pro/Moore/SurgePro.sgmodule
+
+[Panel]
+SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,update-interval=1
+
+[Script]
+SurgePro_ReloadProfile = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Surge-Pro/Moore/SurgePro.js ,argument=icon=paperplane.circle&color=#f6c970
