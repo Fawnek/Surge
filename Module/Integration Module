@@ -1,0 +1,20 @@
+#!name=Surge模块整合包
+#!desc=Surge的基础模块整合包，整合一些必要的模块，解决模块数目过多。
+#!system=ios
+# 不间断更新；最近更改时间####2022.9.13####
+
+[General]
+# > 隐藏任务栏VPN图标
+hide-vpn-icon = true
+# > TF账户管理：自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight App；
+skip-proxy = %APPEND% iosapps.itunes.apple.com    //包含TF区域限制解锁
+
+[Panel]
+#Surge Pro
+SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,update-interval=1
+
+[Script]
+TestFlight账户管理 = type=http-request,pattern=^https:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/,requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js
+
+[MITM]
+hostname = %APPEND% testflight.apple.com
