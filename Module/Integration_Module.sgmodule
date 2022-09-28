@@ -5,7 +5,7 @@
 
 [General]
 # > 隐藏任务栏VPN图标
-hide-vpn-icon = true
+# hide-vpn-icon = true
 # > TF账户管理：自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight App；
 skip-proxy = %APPEND% iosapps.itunes.apple.com    //包含TF区域限制解锁
 
