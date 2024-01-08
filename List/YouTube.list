@@ -1,1 +1,6 @@
-00
+# > YouTube
+USER-AGENT,youtube*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,youtube.com
