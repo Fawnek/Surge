@@ -1,26 +1,3 @@
-h1
-
-<p横=“居中”>
-<img src =“https://github.com/Fawnek/Surge-ios/blob/main/ICO/B242281EE1DB4A76EDD33A9AED47D74E.png?raw=true”宽度=“300”> </图片>
-</p> _ _ _ _ _ _ _ _ _
-
-
-### ![ 20ECA8D1 ] ( https://user-images.githubusercontent.com/104637981/189694660-a4ddb80e-42f3-4586-8096-46cb200b1679.png ) Surge-Conf配置链接 
->  <>
->    **基础版：**待更新~宝宝期待<br>_ _
-
-
-### ![ 2110C0FD ] ( https://user-images.githubusercontent.com/104637981/189703209-08f47a2c-926d-4a52-ad61-0e4b2aa84c1c.png ) Surge模块链接 
->    **稳定版：** https://github.com/Fawnek/Surge/tree/main/Module<br>
-
-### ![2110E80D ] ( https://user-images.githubusercontent.com/104637981/189703251-28e178d4-4f36-400c-b6ae-ceb8fe02cce0.png ) 「深入了解」分流规则、规则及脚本
->    **基础版本： **待更新~ <br > _ _
-
-### ![ 211100B5 ] ( https://user-images.githubusercontent.com/104637981/189703270-9ea1f674-8b16-4741-a44e-c2174c3d8a52.png ) 「深入了解」解锁完整的Apple功能和集成服务 
->     **公开仓库（莫斯科原作者）：** https://github.com/VirgilClyne/iRingo <br>
->    **官方模块官方（TG团体）：** https://t.me/GetSomeFries < br >
->     **释放完整的Apple功能和集成服务作者：**     [ @VirgilClyne ] ( https://github.com/VirgilClyne )
-
 Fawnek 的仓库中所有配置/脚本纯属自用仓库 ┈━═☆
 
 #免责声明
@@ -42,13 +19,6 @@ Fawnek 的仓库中所有配置/脚本纯属自用仓库 ┈━═☆
 
 ⑨ ▣ Fawnek 保留随时更改或补充免责声明的权利。一旦使用并复制了任何本仓库相关脚本或其他内容，则视为您已接受本免责声明。
 
--  ##补充说明
--本仓库只负责各位大佬的脚本，在此基础上进行修改以满足我自用库使用的需求，并不作为脚本的负责维护。
--不保证所有剧本的公开性、合法性、安全性、完整性！
-
-### *特别感谢以下提供内容的作者以及整合时参考的作者
-- [ @Rabbit-Spec ] ( https://github.com/Rabbit-Spec )
-
-### *释放完整的Apple功能和集成服务作者
--   [ @VirgilClyne ]（https://github.com/VirgilClyne ）
-
+-    ##补充说明
+-本仓库只负责涉及大佬的脚本，这个基础上进行的修改同样是我自己用库使用的需求，而不是作为脚本的负责维护。
+-不保证所有风险的公开性、合法性、安全性、计量性！
